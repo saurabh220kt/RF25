@@ -1,0 +1,17 @@
+
+<suite name="Suite2">
+  <test  name="Test1">
+    <classes>
+      <class name="testng.P2"/>
+      <class name="testng.P1"/>
+     
+    </classes>
+  </test>
+   <test  name="Test2">
+    <classes>
+      <class name="testng.P2"/>
+      <class name="testng.P1"/>
+     
+    </classes>
+  </test> 
+</suite> 
